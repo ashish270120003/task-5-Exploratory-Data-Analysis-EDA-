@@ -1,3 +1,12 @@
+<img width="1470" alt="Screenshot 2025-04-28 at 9 38 21 AM" src="https://github.com/user-attachments/assets/e0157691-f5e7-44d0-8695-9f3fd608a0bd" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 38 15 AM" src="https://github.com/user-attachments/assets/cdd3f72a-28fe-44c7-ab9a-b5cf434a5db6" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 38 11 AM" src="https://github.com/user-attachments/assets/7b636acc-4a85-4669-8cf7-71e9e67aad7b" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 38 07 AM" src="https://github.com/user-attachments/assets/91d8f541-71ec-456c-ad3f-32050b2aabae" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 38 04 AM" src="https://github.com/user-attachments/assets/4072ad85-f10a-416e-ab4f-ff9b4b1bb460" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 37 59 AM" src="https://github.com/user-attachments/assets/5aea974b-6232-4c37-9491-a793dd59c6e9" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 37 55 AM" src="https://github.com/user-attachments/assets/87ac3bca-11fb-4b4d-ac16-c6b6b90c0a0c" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 37 51 AM" src="https://github.com/user-attachments/assets/e875a241-e63f-40e3-9bba-1df9313cffa8" />
+<img width="1470" alt="Screenshot 2025-04-28 at 9 37 48 AM" src="https://github.com/user-attachments/assets/a53000c3-0607-4a57-bb7b-a0a0698e6a03" />
 # task-5-Exploratory-Data-Analysis-EDA-
 
 # Exploratory Data Analysis (EDA) - Titanic Dataset
